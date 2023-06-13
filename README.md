@@ -1,4 +1,4 @@
-Number of Visits: [![Visits Badge](https://badges.pufler.dev/visits/MaverickGDN03/MGDN.github.io)](https://badges.pufler.dev)
+Number of Visits: [![Visits Badge](https://badges.pufler.dev/visits/MaverickGDN03/MaverickGDN03)](https://badges.pufler.dev)
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
