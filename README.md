@@ -1,5 +1,5 @@
-Number of Visits: [![Visits Badge](https://badges.pufler.dev/visits/MaverickGDN03/MaverickGDN03)](https://badges.pufler.dev)  <br />
-Number of Commits :[![Commits Badge](https://badges.pufler.dev/commits/monthly/MaverickGDN03
+[![Visits Badge](https://badges.pufler.dev/visits/MaverickGDN03/MaverickGDN03)](https://badges.pufler.dev)  <br />
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/MaverickGDN03
 )](https://badges.pufler.dev)
 
 ### Languages
